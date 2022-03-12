@@ -24,11 +24,11 @@
         }
     
     ?>
-    <li><?= $_POST['favcolor'] ?></li>
-    <li><?= $_POST['birthday'] ?></li>
-    <li><?= $_POST['rating'] ?></li>
-    <li><?= $_POST['skill'] ?></li>
-    <li><?= $_POST['filename'] ?></li>
+    <td><?= $_POST['favcolor'] ?></td>
+    <td><?= $_POST['birthday'] ?></td>
+    <td><?= $_POST['rating'] ?></td>
+    <td><?= $_POST['skill'] ?></td>
+    <td><?= $_POST['filename'] ?></td>
 
 
 
